@@ -1,0 +1,6 @@
+git+https://github.com/memiiso/pyliquibase.git
+requests
+flask
+gunicorn
+google-cloud-storage
+psycopg[binary]
